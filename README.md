@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Noise pollution is a critical concern in urban environments, affecting public health, productivity, and overall quality of life. In Hertfordshire, a rapidly urbanizing area, noise levels are influenced by a variety of factors, including proximity to roads, traffic density, urban infrastructure, and environmental conditions such as weather. This project aims to address these challenges by analyzing, visualizing, and predicting noise levels using advanced geospatial and traffic datasets. The results offer actionable insights to policymakers, enabling effective urban noise mitigation strategies.
+Noise pollution is a critical concern in urban environments, affecting public health, productivity, and overall quality of life. In Hertfordshire, a rapidly urbanizing area, noise levels are influenced by a variety of factors, including proximity to roads, traffic density, urban infrastructure, and environmental conditions such as weather. This project aims to address these challenges by analyzing, visualizing, and predicting noise levels using advanced geospatial and live traffic data. The results offer actionable insights to policymakers, enabling effective urban noise mitigation strategies.
 
 ---
 
